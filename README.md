@@ -1,2 +1,2 @@
 # note-app
-![project image](image.png);
+![project image](image.png)
